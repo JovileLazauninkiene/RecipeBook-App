@@ -1,0 +1,30 @@
+.cards {
+  background: #f0eccf;
+}
+.highlight {
+  width: 60%;
+  padding: 1em 0;
+  background: #ffc107;
+  color: #ffffff;
+  box-shadow: 0.5em 0 0 #ffc107, -0.5em 0 0 #ffc107;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  align-items: center;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.wrapper {
+  position: relative;
+  padding: 20px 0 45px;
+}
+
+.items {
+  display: flex;
+  margin-bottom: 50px;
+}

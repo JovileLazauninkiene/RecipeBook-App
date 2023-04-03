@@ -1,0 +1,46 @@
+.form {
+  max-width: 40rem;
+  margin: 200px auto;
+}
+
+.form label,
+.form input {
+  display: block;
+  width: 100%;
+}
+
+.form input {
+  font: inherit;
+  padding: 0.25rem;
+  background-color: #fffef4;
+  color: #989895;
+  border: none;
+}
+
+.actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.actions button,
+.actions a {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.5rem 1.5rem;
+  border-radius: 4px;
+  background-color: transparent;
+  color: #252e48e2;
+  border: none;
+}
+
+.actions a {
+  text-decoration: none;
+}
+
+.actions button:hover,
+.actions a:hover {
+  background-color: #a3bb98;
+  color: white;
+}

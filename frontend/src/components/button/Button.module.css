@@ -1,0 +1,14 @@
+.btn {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.5rem 1.5rem;
+  border-radius: 4px;
+  background-color: transparent;
+  color: #252e48e2;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #a3bb98;
+  color: white;
+}

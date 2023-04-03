@@ -1,0 +1,17 @@
+.navLink {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 0.5rem 2rem;
+  height: 100%;
+}
+
+.navLink:hover {
+  border-bottom: 4px solid #fff;
+  transition: all 0.2s ease-out;
+}
+
+.active {
+  border-bottom: 4px solid #fff;
+}

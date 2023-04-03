@@ -1,0 +1,10 @@
+.icon {
+  color: white;
+  font-size: 30px;
+  display: block;
+}
+
+.hamburgerBtn {
+  display: inline-block;
+  cursor: pointer;
+}
